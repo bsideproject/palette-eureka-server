@@ -7,10 +7,11 @@ spring:
   main:
     banner-mode: off
   profiles:
-    default: dev
+    default: prod
     group:
       local: local
       dev: dev
+      prod: prod
 
 eureka:
   client:
