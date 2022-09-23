@@ -1,5 +1,5 @@
 # build-push-dev.yml(1)
-name: 'build-push'
+name: 'build-push-dev'
 #
 on:
   push:
